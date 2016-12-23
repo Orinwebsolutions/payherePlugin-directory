@@ -1,3 +1,10 @@
+Hi,
+
+This is payhere plugin for <a href="https://templatic.com/app-themes/directory-theme" target="_blank">directory themplate</a> that support the payment gateway integration.
+
+Thanks
+
+
 # payherePlugin-directory
 Payhere payment gateway plugin for directory themplate 
 
